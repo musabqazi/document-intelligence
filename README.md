@@ -1,6 +1,6 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/workup-voice) · [Workup Outbound](https://github.com/musabqazi/workup-outbound) · [Workup Chat](https://github.com/musabqazi/workup-chat)
+**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Chat](https://github.com/musabqazi/whatsapp-agent)
 
 # Workup Docs — document and invoice intelligence
 
