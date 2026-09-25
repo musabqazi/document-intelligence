@@ -1,8 +1,8 @@
 <div align="center"><img src="cover.png" width="100%"></div>
 
-**[← All systems](https://github.com/musabqazi)** · [Workup Voice](https://github.com/musabqazi/voice-receptionist) · [Workup Outbound](https://github.com/musabqazi/outbound-engine) · [Workup Chat](https://github.com/musabqazi/whatsapp-agent)
+**[← All systems](https://github.com/musabqazi)** · [Voice Receptionist](https://github.com/musabqazi/voice-receptionist) · [Outbound Engine](https://github.com/musabqazi/outbound-engine) · [WhatsApp Agent](https://github.com/musabqazi/whatsapp-agent)
 
-# Workup Docs — document and invoice intelligence
+# Document Intelligence — document and invoice intelligence
 
 Documents arrive (email, upload, folder, WhatsApp), get classified, parsed, extracted into
 validated structured data with a confidence and a citation per field, checked against business
@@ -15,7 +15,7 @@ file to `/api/extract` and get JSON back with confidences, citations and the rul
 
 ## Dashboard
 
-<img src="screenshots/01-dashboard.png" alt="Workup Docs — document and invoice intelligence dashboard" width="100%"/>
+<img src="screenshots/01-dashboard.png" alt="Document Intelligence — document and invoice intelligence dashboard" width="100%"/>
 <sub>The review queue: every extracted field carries a confidence and a citation; low-confidence fields route to a human.</sub>
 
 ## The problem
@@ -52,4 +52,4 @@ is on the dashboard. Every document, extraction version and decision is in the a
 The live demo runs on **seeded demo data** — a fictional tenant and synthetic records throughout. No client data appears in the demo or in this repository, and the implementation is private.
 
 ---
-<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · A <b>Workup Solutions</b> product · source private. © 2026 Musab Qazi</sub>
+<sub>Part of the <a href="https://github.com/musabqazi">musabqazi portfolio</a> · source private. © 2026 Musab Qazi</sub>
